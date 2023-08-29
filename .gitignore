@@ -1,0 +1,7 @@
+node_modules/
+fledge_client/ccp/*
+fledge_client/wallet/*
+package-lock.json
+
+!fledge_client/ccp/.gitkeep
+!fledge_client/wallet/.gitkeep
